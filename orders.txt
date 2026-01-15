@@ -1,0 +1,37 @@
+New Order:
+Total Amount: Rs0
+--------------------------
+New Order:
+- Pizza : Rs40
+- Coffee : Rs80
+Total Amount: Rs120
+--------------------------
+New Order:
+Total Amount: Rs0
+--------------------------
+New Order:
+- Pizza : Rs40
+- Pasta : Rs50
+- Salad : Rs70
+Total Amount of Chetan Prajapat is : Rs160
+--------------------------
+New Order:
+- Pizza : Rs40
+Total Amount of chetan is : Rs40
+--------------------------
+New Order by chetan:
+- Pizza : Rs40
+Total Amount of chetan is : Rs40
+--------------------------
+New Order by chetan:
+- Pizza : Rs40
+Total Amount of chetan is : Rs40
+--------------------------
+New Order by ravin:
+- Piz
+Tza : Rs40otal Amount of ravin is : Rs40
+--------------------------
+New Order by shubham:
+- Salad : Rs70
+Total Amount of shubham is : Rs110
+--------------------------
