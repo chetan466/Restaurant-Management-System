@@ -1,3 +1,2 @@
 # Restaurant-Management-System
-A code to manage the orders
-and manege the resturant menu system
+this is my first project on file io operation based
