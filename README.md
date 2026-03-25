@@ -1,3 +1,3 @@
 # Restaurant-Management-Systemm
-code to reslove the managemant Restauran
+code to reslove the managemant Restaurant
 system
