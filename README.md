@@ -1,2 +1,2 @@
 # Restaurant-Management-Systemm
-code to reslove the manageman Restauran syastem
+code to reslove the manageman Restauran 
